@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wayne, an <a href="www.linkedin.com/in/WayneTav">IT Professional</a> </h1>
+<h1>Hi, I'm Wayne, an <a href="www.linkedin.com/in/dewayne-tavares-jr-68a43b356">IT Professional</a> </h1>
 
 <h2>  Information Technology Projects:</h2> 
 
@@ -15,4 +15,4 @@
 
 [<img align="left" alt="WayneTav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/WayneTav
+[linkedin]: www.linkedin.com/in/dewayne-tavares-jr-68a43b356
