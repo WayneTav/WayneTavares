@@ -15,4 +15,4 @@
 
 [<img align="left" alt="WayneTav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [www.linkedin.com/in/dewayne-tavares-jr-68a43b356](https://linkedin.com/in/dewayne-tavares-jr-68a43b356)
+[linkedin]: https://linkedin.com/in/dewayne-tavares-jr-68a43b356
