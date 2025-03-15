@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wayne, an <a href="[www.linkedin.com/dewayne-tavares-jr-68a43b356](https://www.linkedin.com/in/dewayne-tavares-jr-68a43b356/)">IT Professional</a> </h1>
+<h1>Hi, I'm Wayne, an <a href="https://linkedin.com/in/dewayne-tavares-jr-68a43b356">IT Professional</a> </h1>
 
 <h2>  Information Technology Projects:</h2> 
 
